@@ -1,0 +1,10 @@
+c:\users\labuser\documents\visual studio 2017\Projects\VBNetHelloWorld\BuyingEggs\bin\Debug\BuyingEggs.exe.config
+c:\users\labuser\documents\visual studio 2017\Projects\VBNetHelloWorld\BuyingEggs\bin\Debug\BuyingEggs.exe
+c:\users\labuser\documents\visual studio 2017\Projects\VBNetHelloWorld\BuyingEggs\bin\Debug\BuyingEggs.pdb
+c:\users\labuser\documents\visual studio 2017\Projects\VBNetHelloWorld\BuyingEggs\bin\Debug\BuyingEggs.xml
+c:\users\labuser\documents\visual studio 2017\Projects\VBNetHelloWorld\BuyingEggs\obj\Debug\BuyingEggs.vbprojResolveAssemblyReference.cache
+c:\users\labuser\documents\visual studio 2017\Projects\VBNetHelloWorld\BuyingEggs\obj\Debug\BuyingEggs.Resources.resources
+c:\users\labuser\documents\visual studio 2017\Projects\VBNetHelloWorld\BuyingEggs\obj\Debug\BuyingEggs.vbproj.GenerateResource.Cache
+c:\users\labuser\documents\visual studio 2017\Projects\VBNetHelloWorld\BuyingEggs\obj\Debug\BuyingEggs.exe
+c:\users\labuser\documents\visual studio 2017\Projects\VBNetHelloWorld\BuyingEggs\obj\Debug\BuyingEggs.xml
+c:\users\labuser\documents\visual studio 2017\Projects\VBNetHelloWorld\BuyingEggs\obj\Debug\BuyingEggs.pdb

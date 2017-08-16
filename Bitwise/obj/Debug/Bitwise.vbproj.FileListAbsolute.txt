@@ -1,0 +1,10 @@
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\Bitwise\bin\Debug\Bitwise.exe.config
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\Bitwise\bin\Debug\Bitwise.exe
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\Bitwise\bin\Debug\Bitwise.pdb
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\Bitwise\bin\Debug\Bitwise.xml
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\Bitwise\obj\Debug\Bitwise.vbprojResolveAssemblyReference.cache
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\Bitwise\obj\Debug\Bitwise.Resources.resources
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\Bitwise\obj\Debug\Bitwise.vbproj.GenerateResource.Cache
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\Bitwise\obj\Debug\Bitwise.exe
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\Bitwise\obj\Debug\Bitwise.xml
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\Bitwise\obj\Debug\Bitwise.pdb
