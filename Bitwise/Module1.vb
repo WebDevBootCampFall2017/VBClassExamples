@@ -7,6 +7,7 @@
         '32 is 10000, but zero filled to 16 bits
         Dim b As Int16 = 32
 
+        'Bitwise operator results
         Console.WriteLine("a & b = {0}", a And b)
         Console.WriteLine("a | b = {0}", a Or b)
         Console.WriteLine("a ~ b = {0}", a Xor b)
