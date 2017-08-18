@@ -1,0 +1,10 @@
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\MakeArray\bin\Debug\MakeArray.exe.config
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\MakeArray\bin\Debug\MakeArray.exe
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\MakeArray\bin\Debug\MakeArray.pdb
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\MakeArray\bin\Debug\MakeArray.xml
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\MakeArray\obj\Debug\MakeArray.vbprojResolveAssemblyReference.cache
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\MakeArray\obj\Debug\MakeArray.Resources.resources
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\MakeArray\obj\Debug\MakeArray.vbproj.GenerateResource.Cache
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\MakeArray\obj\Debug\MakeArray.exe
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\MakeArray\obj\Debug\MakeArray.xml
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\MakeArray\obj\Debug\MakeArray.pdb

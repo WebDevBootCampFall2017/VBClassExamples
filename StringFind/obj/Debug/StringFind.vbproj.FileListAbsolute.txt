@@ -1,0 +1,10 @@
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\StringFind\bin\Debug\StringFind.exe.config
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\StringFind\bin\Debug\StringFind.exe
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\StringFind\bin\Debug\StringFind.pdb
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\StringFind\bin\Debug\StringFind.xml
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\StringFind\obj\Debug\StringFind.vbprojResolveAssemblyReference.cache
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\StringFind\obj\Debug\StringFind.Resources.resources
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\StringFind\obj\Debug\StringFind.vbproj.GenerateResource.Cache
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\StringFind\obj\Debug\StringFind.exe
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\StringFind\obj\Debug\StringFind.xml
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\VBNetHelloWorld\StringFind\obj\Debug\StringFind.pdb
